@@ -1,0 +1,1 @@
+This is a newsletter project that subscribes the user for a newsletter through the [Mailchimp API](https://us13.admin.mailchimp.com/lists/dashboard/overview?id=1129951) and is hosted on the [Heroku server](https://dashboard.heroku.com/) at https://rocky-bayou-47220.herokuapp.com/
