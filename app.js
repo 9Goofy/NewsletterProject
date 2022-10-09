@@ -68,7 +68,7 @@ application.listen(process.env.PORT || 3000,function(){
 });
 
 
-// api key
+// mailchimp api key
 //7307525cd4cf6d38aaf5e6ef0ad0e8e1-us13
-// list ID
+// mailchimp list ID
 // b4f87bc046
